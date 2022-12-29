@@ -8,6 +8,7 @@ after running this on your terminal or command prompt,
 the terminal will provide you with a local url and a network url
 
 
+![Screenshot from 2022-12-29 14-52-56](https://user-images.githubusercontent.com/62094358/209947454-44322fd3-2222-43cd-b82a-232191e0111d.png)
 
 
 ![Screenshot from 2022-11-24 13-08-44](https://user-images.githubusercontent.com/62094358/209947253-d66044b9-68f7-4d37-8762-1cd7a14aa668.png)
