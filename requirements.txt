@@ -13,5 +13,5 @@ streamlit-lottie==0.0.5
 streamlit-option-menu==0.3.6
 streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==1.0.2
-numpy==1.16.0
+numpy==1.17.3
 ydata-profiling==4.0.0
