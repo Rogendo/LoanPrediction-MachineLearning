@@ -7,7 +7,7 @@ import pandas as pd
 from ydata_profiling import ProfileReport
 import time
 
-############## page settings ##############
+########### page settings ############
 st.set_page_config(page_title="Loan Prediction",
                 #    page_icon="chart",
                    layout="wide",
