@@ -2,7 +2,7 @@ scikit-learn==1.1.2
 pandas==1.5.2
 streamlit==1.16.0
 streamlit-authenticator==0.2.1
-streamlit-camera-input-live==0.1.4
+streamlit-camera-input-live==0.1.0  # version updated to 0.1.0 as 0.1.4 is not found
 streamlit-card==0.0.4
 streamlit-embedcode==0.1.0
 streamlit-extras==0.1.0
@@ -13,5 +13,6 @@ streamlit-lottie==0.0.2
 streamlit-option-menu==0.3.2
 streamlit-toggle-switch==0.1.2
 streamlit-vertical-slider==0.1.4
-numpy==1.23.0
+numpy==1.21.6
+scipy==1.7.3
 ydata-profiling==4.0.0
